@@ -2,13 +2,18 @@
 
 > **Read-only archive of released versions of motniemtin/lang-vietnamese.** Not for installation: use [Packagist](https://packagist.org/packages/motniemtin/lang-vietnamese) or the [upstream repository](https://github.com/motniemtin/lang-vietnamese).
 
-**0** versions archived · Latest: [`v0.0.6`](https://github.com/flarchive/motniemtin-lang-vietnamese/tree/archive/v0.0.6) · License: `MIT` · Flarum: `^0.1.0-beta.9`
+**6** versions archived · Latest: [`v0.0.6`](https://github.com/flarchive/motniemtin-lang-vietnamese/tree/archive/v0.0.6) · License: `MIT` · Flarum: `^0.1.0-beta.9`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2020-02-26 | `^0.1.0-beta.11.1` | [Browse](https://github.com/flarchive/motniemtin-lang-vietnamese/tree/archive/v0.0.1) |
+| `v0.0.2` | 2020-02-29 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/motniemtin-lang-vietnamese/tree/archive/v0.0.2) |
+| `v0.0.3` | 2020-03-24 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/motniemtin-lang-vietnamese/tree/archive/v0.0.3) |
+| `v0.0.4` | 2020-04-28 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/motniemtin-lang-vietnamese/tree/archive/v0.0.4) |
+| `v0.0.5` | 2020-05-13 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/motniemtin-lang-vietnamese/tree/archive/v0.0.5) |
+| `v0.0.6` | 2020-05-13 | `^0.1.0-beta.9` | [Browse](https://github.com/flarchive/motniemtin-lang-vietnamese/tree/archive/v0.0.6) |
 
 Catalog entry: [packages/motniemtin-lang-vietnamese.json](https://github.com/flarchive/archive-index/blob/main/packages/motniemtin-lang-vietnamese.json)
 
